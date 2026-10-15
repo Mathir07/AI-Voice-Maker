@@ -1,0 +1,6 @@
+{
+  "name": "Zombie Apocalypse — Episode 1 Voice Narration Studio",
+  "description": "Professional cinematic English voice narration studio for YouTube series 'Zombie Apocalypse — Episode 1: The Beginning of the End' with deep mature male narrator voices, dramatic pacing, and clean studio audio export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
